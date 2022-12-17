@@ -3,11 +3,19 @@
 }
 
 .hw {
-
+    display: flex;
+    max-width: 1280px;
+    width: 100%;
+    height: 336px;
+    margin: 0 auto;
+    border: 1px solid red;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .hwTitle {
-
+    margin-top: 107px;
+    margin-left: 70px;
     width: 165px;
     height: 27px;
 

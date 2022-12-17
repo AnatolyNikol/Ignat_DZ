@@ -1,12 +1,11 @@
 .sendForm {
-
-    width: 976px;
+    display: flex;
+    width: 1140px;
     height: 40px;
-
+    margin-left: 70px;
 }
 
 .textarea {
-
     resize: none;
     width: 976px;
     min-height: 40px;
@@ -33,9 +32,9 @@
 }
 
 .button {
-
     width: 120px;
     height: 40px;
+    margin-left: 44px;
 
 
     background: #0066CC;
