@@ -1,5 +1,8 @@
 .message {
 
+    width: 527px;
+    height: 60px;
+
 }
 
 .imageAndText {
@@ -8,24 +11,75 @@
 
 .imageAndText img {
 
+    width: 48px;
+    height: 48px;
+
 }
 
 .text {
 
+    width: 512px;
+    height: 60px;
+    border-radius: 10px;
+
+    background: #0066CC;
+    filter: drop-shadow(0px 1px 2px rgba(29, 33, 38, 0.1));
 }
 
 .text:after {
 
+    content: '';
+    width: 24px;
+    height: 20px;
+    left: 503px;
+    top: 40px;
+
+    background: #0066CC;
+    clip-path: polygon(18% 11%, 0% 100%, 100% 100%);
 }
 
 .name {
 
+    width: 40px;
+    height: 22px;
+
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #FFFFFF;
 }
 
 .messageText {
 
+    width: 489px;
+    height: 20px;
+
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+
+    color: #FFFFFF;
 }
 
 .time {
 
+    width: 26px;
+    height: 12px;
+
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 12px;
+
+    color: #000000;
 }
+
