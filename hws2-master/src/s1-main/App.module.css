@@ -3,24 +3,22 @@
 }
 
 .hw {
-    display: flex;
     max-width: 1280px;
     width: 100%;
     height: 336px;
     margin: 0 auto;
-    border: 1px solid red;
-    flex-direction: column;
-    justify-content: space-between;
+    /*border: 1px solid red;*/
 }
 
 .hwTitle {
     margin-top: 107px;
-    margin-left: 70px;
+    margin-left: 382px;
     width: 165px;
     height: 27px;
 
 
-    font-family: 'Montserrat';
+
+    font-family: 'Montserrat', 'sans-serif';
     font-style: normal;
     font-weight: 600;
     font-size: 22px;
