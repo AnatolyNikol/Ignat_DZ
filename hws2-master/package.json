@@ -1,8 +1,8 @@
 {
   "name": "hws2",
-  "homepage": "https://github.com/AnatolyNikol/Ignat_DZ",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://AnatolyNikol.github.io/Ignat_DZ",
   "dependencies": {
     "@emotion/react": "11.10.4",
     "@emotion/styled": "11.10.4",
