@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Ignat_DZ/static/css/main.027cf741.css",
-    "main.js": "/Ignat_DZ/static/js/main.e091582a.js",
+    "main.css": "/Ignat_DZ/static/css/main.97cc781f.css",
+    "main.js": "/Ignat_DZ/static/js/main.dec49806.js",
     "static/js/787.66cb4309.chunk.js": "/Ignat_DZ/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/Ignat_DZ/static/media/avatar.d947cb9d0d13765666b6.png",
     "index.html": "/Ignat_DZ/index.html",
-    "main.027cf741.css.map": "/Ignat_DZ/static/css/main.027cf741.css.map",
-    "main.e091582a.js.map": "/Ignat_DZ/static/js/main.e091582a.js.map",
+    "main.97cc781f.css.map": "/Ignat_DZ/static/css/main.97cc781f.css.map",
+    "main.dec49806.js.map": "/Ignat_DZ/static/js/main.dec49806.js.map",
     "787.66cb4309.chunk.js.map": "/Ignat_DZ/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.027cf741.css",
-    "static/js/main.e091582a.js"
+    "static/css/main.97cc781f.css",
+    "static/js/main.dec49806.js"
   ]
 }
